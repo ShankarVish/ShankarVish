@@ -18,7 +18,7 @@
 </div>
 
 
-<h3 align="center">🧑‍💻 About Me</h3>
+<h3 align="left">🧑‍💻 About Me</h3>
 
 <p align="left">
   I'm Vishnu Shankar, an AI/ML Engineer with deep expertise in <strong>Machine Learning, Deep Learning, and Generative AI</strong>. My work focuses on solving real-world problems across <strong>computer vision, natural language processing</strong>, and <strong>LLM-based applications</strong>, using tools like <strong>TensorFlow, Hugging Face, LangChain, and OpenAI APIs</strong>.<br><br>
@@ -27,7 +27,7 @@
 
 <hr />
 
-<h3 align="center">🛠 Tech Stacks</h3>
+<h3 align="left">🛠 Tech Stacks</h3>
 
 </br>
 
